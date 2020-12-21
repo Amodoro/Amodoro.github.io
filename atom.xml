@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Amodoro</title>
+  
+  
+  <link href="http://amodoro.top/atom.xml" rel="self"/>
+  
+  <link href="http://amodoro.top/"/>
+  <updated>2020-12-01T10:03:19.058Z</updated>
+  <id>http://amodoro.top/</id>
+  
+  <author>
+    <name>Amodoro</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>blog2</title>
+    <link href="http://amodoro.top/2020/12/01/blog2/"/>
+    <id>http://amodoro.top/2020/12/01/blog2/</id>
+    <published>2020-12-01T10:03:04.000Z</published>
+    <updated>2020-12-01T10:03:19.058Z</updated>
+    
+    
+    
+    
+    
+    <category term="88" scheme="http://amodoro.top/tags/88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>blog</title>
+    <link href="http://amodoro.top/2020/12/01/blog/"/>
+    <id>http://amodoro.top/2020/12/01/blog/</id>
+    <published>2020-12-01T07:43:46.000Z</published>
+    <updated>2020-12-01T10:02:27.578Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h1 id="blog"><a href="#blog" class="headerlink" title="blog"></a>blog</h1><p>8885</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;h1 id=&quot;blog&quot;&gt;&lt;a href=&quot;#blog&quot; class=&quot;headerlink&quot; title=&quot;blog&quot;&gt;&lt;/a&gt;blog&lt;/h1&gt;&lt;p&gt;8885&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="blog" scheme="http://amodoro.top/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭建个人博客</title>
+    <link href="http://amodoro.top/2020/12/01/hello-world/"/>
+    <id>http://amodoro.top/2020/12/01/hello-world/</id>
+    <published>2020-12-01T01:25:48.653Z</published>
+    <updated>2020-12-01T07:43:46.000Z</updated>
+    
+    
+    <summary type="html">搭建本站的历程</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
